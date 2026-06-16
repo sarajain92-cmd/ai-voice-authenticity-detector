@@ -1,0 +1,13 @@
+torch
+torchaudio
+librosa
+numpy
+pandas
+scikit-learn
+matplotlib
+streamlit
+fastapi
+uvicorn
+transformers
+python-dotenv
+requests
