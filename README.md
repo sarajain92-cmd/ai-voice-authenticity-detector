@@ -31,13 +31,3 @@ FastAPI
 Streamlit
 
 
-📂 Project Structure
-ai-voice-authenticity-detector/
-│
-├── app/                  # Streamlit frontend
-├── backend/              # FastAPI backend
-├── features/             # Feature extraction logic
-├── training/             # Model training scripts
-├── utils/                # Utility functions
-├── requirements.txt
-└── README.md
