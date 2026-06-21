@@ -7,13 +7,22 @@ This project is an AI-powered system that detects whether a given voice recordin
 The system includes:
 
 🧠 A trained ML model for classification
+
 ⚡ FastAPI backend for prediction
+
 🎨 Streamlit UI for user interaction
+
 🚀 Features
+
+
 🎙 Upload audio file and detect authenticity
+
 ⚡ Real-time prediction (REAL / FAKE)
+
 📊 Confidence score output
+
 🌐 Interactive web interface using Streamlit
+
 🧠 ML-based feature extraction (Librosa)
 
 🛠️ Tech Stack
