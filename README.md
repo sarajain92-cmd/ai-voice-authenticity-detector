@@ -1,4 +1,5 @@
 🎤 AI Voice Deepfake Detection System
+
 📌 Overview
 
 This project is an AI-powered system that detects whether a given voice recording is REAL or FAKE (deepfake). It combines machine learning with audio feature extraction to identify synthetic or manipulated speech.
@@ -14,16 +15,22 @@ The system includes:
 📊 Confidence score output
 🌐 Interactive web interface using Streamlit
 🧠 ML-based feature extraction (Librosa)
+
 🛠️ Tech Stack
+
 💻 Languages & Libraries
 Python
 NumPy
 Librosa
 Scikit-learn / PyTorch
+
 ⚙️ Backend
 FastAPI
+
 🎨 Frontend
 Streamlit
+
+
 📂 Project Structure
 ai-voice-authenticity-detector/
 │
